@@ -28,7 +28,7 @@ export const LoginPage = () => {
   //   });
   // }
 
-  const urlImageBacjG = `https://AleCodeDev.github.io/react-heroes/custom/deadpool.jpg`
+  const urlImageBacjG = `https://alecodedev.github.io/react-heroes/custom/deadpool.jpg`
   return (
     <div className="d-flex justify-content-center align-items-center" style={{ height: '100vh', backgroundImage: `url(${urlImageBacjG})`, height: '100vh' , backgroundRepeat: 'no-repeat', objectFit: 'cover' }}>
             <div className="row p-5 rounded" style={{ width: '35%', backgroundColor: '#61616156' }}>

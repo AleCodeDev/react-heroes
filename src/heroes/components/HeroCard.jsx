@@ -18,7 +18,7 @@ export const HeroCard = ({
     characters,
 }) => {
 
-    const heroImageUrl = `https://AleCodeDev.github.io/react-heroes/heroes/${id}.jpg`;
+    const heroImageUrl = `https://alecodedev.github.io/react-heroes/heroes/${id}.jpg`;
 
     // const charactesByHero =  (<p>{ characters }</p>);
 
