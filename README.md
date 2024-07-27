@@ -1,3 +1,3 @@
 # React Heroes
 
-Este es mi repositorio de HeroesSpa
+Este es mi repositorio de React-Heroes
